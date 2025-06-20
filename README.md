@@ -2,8 +2,6 @@
 Snowflake hands-on project with data loading, S3 external stage, and transformations
 # Snowflake Data Engineering Lab Project
 
-# Snowflake Data Engineering Lab Project
-
 Welcome to my personal Snowflake lab project! This repository reflects the practical exercises I completed as part of my ongoing journey to become a better data engineer. My goal was to go beyond theory and get hands-on experience with real SQL tasks, cloud integration, and Snowflake capabilities.
 
 This project showcases how I loaded data from AWS S3 into Snowflake, explored external stages, and performed basic to intermediate-level data transformations — all through SQL. Each piece of work here helped me understand not only *how* Snowflake works, but also *why* certain practices matter in real-world data engineering.
